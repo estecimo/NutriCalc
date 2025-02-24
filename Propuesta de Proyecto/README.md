@@ -35,7 +35,7 @@ RF03: Cálculo automático de macronutrientes.
 RF04: Asignación de equivalentes de grupos alimenticios.
 RF05: Creación, edición y almacenamiento de menús personalizados.
 RF06: Exportación e impresión de menús generados.
-# No-Funcionales
+# Requerimientos No-Funcionales
 RNF01: Interfaz responsiva y amigable para usuarios de diferentes niveles de conocimiento.
 RNF02: Seguridad en el almacenamiento de datos de los usuarios.
 RNF03: Rendimiento eficiente en el cálculo y generación de menús.
