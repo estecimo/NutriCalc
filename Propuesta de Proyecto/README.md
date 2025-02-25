@@ -1,13 +1,13 @@
 # Objetivo del proyecto
 Se pretende desarrollar una aplicación web NutriCalc intuitiva y completa que permita a los usuarios calcular sus necesidades de macronutrientes, determinar equivalentes de grupos alimenticios y crear planes de alimentación personalizados (desayuno, colación, almuerzo, colación y cena). La aplicación también permitirá a los usuarios iniciar sesión para guardar sus menús y realizar un seguimiento de su progreso.
-Características
-•	Cálculo de macronutrientes basado en las necesidades del usuario.
-•	Identificación y equivalencia de grupos alimenticios.
-•	Creación de menús personalizados con diferentes tiempos de comida.
-•	Sistema de autenticación para permitir el almacenamiento de menús.
-•	Interfaz intuitiva y amigable para el usuario.
-•	Generación de reportes o exportación de dietas en formatos comunes (PDF, CSV).
-•	Compatibilidad con dispositivos móviles y escritorio. para acceder a ellos en cualquier momento y desde cualquier dispositivo.
+Características:
+- Cálculo de macronutrientes basado en las necesidades del usuario.
+- Identificación y equivalencia de grupos alimenticios.
+- Creación de menús personalizados con diferentes tiempos de comida.
+- Sistema de autenticación para permitir el almacenamiento de menús.
+- Interfaz intuitiva y amigable para el usuario.
+- Generación de reportes o exportación de dietas en formatos comunes (PDF, CSV).
+- Compatibilidad con dispositivos móviles y escritorio. para acceder a ellos en cualquier momento y desde cualquier dispositivo.
 # Herramientas existentes
 Existen diversas herramientas en el mercado que permiten el cálculo de calorías y macronutrientes, como MyFitnessPal, Cronometer y FatSecret. Sin embargo, muchas de estas opciones no ofrecen una integración completa con la equivalencia de grupos alimenticios ni la posibilidad de generar menús completos de manera personalizada. En el caso de las herramientas si cuentan con la integración de equivalentes como Nutre.in, la cuál se ha tomado como referencia, no cuenta con la personalización de cálculo que se pretende agregar.
 Valor del software propuesto
