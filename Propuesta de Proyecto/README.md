@@ -43,3 +43,18 @@ Points of pain: Necesidad de cálculos precisos de macronutrientes, dificultad p
 **RNF03**: Rendimiento eficiente en el cálculo y generación de menús.\
 **RNF04**: Escalabilidad para futuras integraciones con bases de datos externas o aplicaciones móviles.\
 **RNF05**: Compatibilidad con distintos navegadores y sistemas operativos.\
+# Casos de Uso
+- Registrar usuario. El cliente podrá registrar sus credenciales en el sistemas para ser usuario
+- Iniciar sesión. El cliente podrá ingresar como usuario al sistema
+- Registrar el total de kilocalorías. Se ingresa el total de kcals
+- Personalizar la distribución. Se ditribuyen las kcals en los macronutrientes
+- Agraegar grupos alimenticios. Se seleccionan los equivalentes de los grupos alimenticios
+- Monitorear el porcentaje agregado con el registrado. Se puede observar la comparación de los equivalentes ingresados con la meta determinada
+- Agregar alimentos específicos. De acuerdo a los equivalentes, se agregan platillos específicos
+- Exportar el menú. Se puede exportar el menú como PDF
+- Guardar menú. Se puede guardar el menú en el sistema
+- Abrir menú. Se pueden abrir los menus guardados previamente
+- Cerrar sesión. Se puede cerrar sesión iniciada.
+  ![image](https://github.com/user-attachments/assets/980de064-4ee6-445b-85b2-f39ff72a7953)
+
+
