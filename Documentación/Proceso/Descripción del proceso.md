@@ -26,3 +26,28 @@ El desarrollo se organiza mediante un **Product Backlog** priorizado y un **Spri
 - **Trello** para la gestión del backlog.
 - **GitHub Projects** para el seguimiento de issues.
 - **Discord y Google Meet** para reuniones síncronas y comunicación constante.
+
+## Sprint Actual
+
+- **Duración:** 2 semanas (del 1 al 15 de abril de 2025)
+- **Objetivos del Sprint:**
+  - Refinar los requisitos funcionales y no funcionales.
+  - Mejorar los artefactos y documentos de requisitos.
+  - Reestructurar el repositorio con una rama por entrega.
+  - Generar nuevas historias de usuario con criterios de aceptación.
+- **Resultados Esperados:**
+  - `Requisitos Funcionales.md` (Modificado)
+  - `Requisitos No Funcionales.md` (Modificado)
+  - `Artefactos.md` (Modificado)
+  - Nueva métrica de contribución objetiva
+  - Nueva rama: `Segunda Entrega`
+
+## Actividades por Rol
+
+| Actividad                            | Scrum Master | Product Owner | Dev Team |
+|-------------------------------------|--------------|----------------|----------|
+| Planeación de Sprint                | ✅           | ✅             | ✅       |
+| Refinamiento de Requisitos          |              | ✅             | ✅       |
+| Implementación y Documentación      |              |                | ✅       |
+| Seguimiento de tareas en Trello     | ✅           | ✅             | ✅       |
+| Revisión y validación del entregable| ✅           | ✅             | ✅       |
