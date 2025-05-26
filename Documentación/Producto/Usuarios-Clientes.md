@@ -2,6 +2,7 @@
 La aplicación NutriCalc ha sido diseñada pensando en dos tipos principales de usuarios: profesionales de la salud (usuarios primarios) y usuarios interesados en mejorar su alimentación (usuarios secundarios). A continuación se presentan perfiles representativos (personas) construidos con base en características reales de los usuarios objetivo:
 
 ## Usuario Primario
+![image](https://github.com/user-attachments/assets/5ff2aaee-65f2-415e-ac61-2856d40e3e6b)
 **Nombre**: Dra. María López  
 **Edad**: 45 años  
 **Rol**: Nutrióloga certificada  
@@ -18,6 +19,7 @@ La aplicación NutriCalc ha sido diseñada pensando en dos tipos principales de 
 - Interfaces poco intuitivas que dificultan la explicación de planes nutricionales a pacientes.
 
 ## Usuario Secundario
+![image](https://github.com/user-attachments/assets/113599cb-016d-4369-96ec-37dcd7b01259)
 **Nombre**: Juan Pérez  
 **Edad**: 30 años  
 **Rol**: Empleado de oficina  
@@ -34,6 +36,7 @@ La aplicación NutriCalc ha sido diseñada pensando en dos tipos principales de 
 - Escasa oferta de herramientas que sean fáciles de usar para alguien sin experiencia nutricional.
 
 ## Usuario Secundario
+![image](https://github.com/user-attachments/assets/b1604928-fe1d-4df6-8c69-09edd9dbc6be)
 **Nombre**: Andrés Gómez  
 **Edad**: 25 años  
 **Rol**: Atleta de alto rendimiento  
