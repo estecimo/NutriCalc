@@ -4,22 +4,21 @@ Los Requisitos Funcionales (RF) definen las capacidades específicas que el sist
 ### RF01 – Registro de usuarios
 El sistema debe permitir a los nuevos usuarios registrarse con credenciales únicas (correo electrónico y contraseña).  
 **Historia de usuario:**  
-Como usuario nuevo, quiero registrarme en la aplicación para guardar mis menús y acceder posteriormente a ellos.
+**Como** nuevo usuario, **quiero** crear una cuenta con mis datos básicos, **para que** pueda acceder a mis planes personalizados.
 
 ### RF02 – Inicio de sesión
 El sistema debe permitir el inicio de sesión con credenciales válidas.  
 **Historia de usuario:**  
-Como usuario registrado, quiero iniciar sesión para acceder a mis datos y menús guardados.
+**Como** usuario registrado, **quiero** iniciar sesión con mis credenciales, **para que** pueda acceder a mi información guardada.
 
-### RF03 – Ingreso de datos personales
-El sistema debe permitir al usuario ingresar datos como edad, sexo, peso, estatura, nivel de actividad física, entre otros, necesarios para el cálculo nutricional.  
-**Historia de usuario:**  
-Como usuario, quiero ingresar mis datos personales para que el sistema calcule mi requerimiento energético diario.
-
-### RF04 – Cálculo de macronutrientes
+### RF03 – Cálculo de macronutrientes
 El sistema debe calcular automáticamente la distribución de macronutrientes (carbohidratos, proteínas, grasas) a partir del total de kilocalorías estimado.  
 **Historia de usuario:**  
 Como usuario, quiero conocer mis requerimientos de macronutrientes para planificar mi dieta de forma balanceada.
+
+### RF04 - Visualización de macronutrientes
+El sistema debe reflejar los macronutrientres calculados en la distribución de los alimentos a seleccionar.
+**Como** usuario, **quiero** visualizar la distribución de macronutrientes (proteínas, carbohidratos, grasas), **para que** comprenda cómo se compone mi dieta.
 
 ### RF05 – Asignación de equivalentes de grupos alimenticios
 El sistema debe permitir seleccionar alimentos según los grupos alimenticios equivalentes definidos en el sistema (ej. cereales, proteínas, frutas, etc.).  
@@ -36,12 +35,15 @@ El sistema debe permitir guardar menús personalizados en la cuenta del usuario.
 **Historia de usuario:**  
 Como usuario, quiero guardar mis menús para reutilizarlos o consultarlos más tarde.
 
-### RF08 – Exportar menús
+### RF08 - Historial de planes
+**Como** usuario, **quiero** acceder al historial de mis planes anteriores, **para que** pueda evaluar mi progreso con el tiempo.
+
+### RF09 – Exportar menús
 El sistema debe permitir exportar los menús generados en formato PDF y/o CSV.  
 **Historia de usuario:**  
 Como usuario, quiero exportar mis menús para imprimirlos o compartirlos con otras personas.
 
-### RF09 – Cierre de sesión
+### RF10 – Cierre de sesión
 El sistema debe permitir cerrar la sesión de forma segura.  
 **Historia de usuario:**  
 Como usuario, quiero cerrar mi sesión para proteger mi información personal.
