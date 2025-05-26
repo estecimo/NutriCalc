@@ -8,53 +8,61 @@ Características:
 - Interfaz intuitiva y amigable para el usuario.
 - Generación de reportes o exportación de dietas en formatos comunes (PDF, CSV).
 - Compatibilidad con dispositivos móviles y escritorio. para acceder a ellos en cualquier momento y desde cualquier dispositivo.
-# Herramientas existentes
-Existen diversas herramientas en el mercado que permiten el cálculo de calorías y macronutrientes, como MyFitnessPal, Cronometer y FatSecret. Sin embargo, muchas de estas opciones no ofrecen una integración completa con la equivalencia de grupos alimenticios ni la posibilidad de generar menús completos de manera personalizada. En el caso de las herramientas si cuentan con la integración de equivalentes como Nutre.in, la cuál se ha tomado como referencia, no cuenta con la personalización de cálculo que se pretende agregar.
-Valor del software propuesto
-Este software se diferencia de las herramientas existentes al proporcionar un enfoque integral para la planificación dietética, combinando el cálculo de macronutrientes con la organización de menús basados en equivalencias alimentarias. La capacidad de almacenar menús y acceder a ellos en cualquier momento ofrece un valor adicional para profesionales de la nutrición y usuarios interesados en una alimentación balanceada.
-# Definición de usuarios
-Nombre: Juan Pérez **(Secundario)**\
-Edad: 30 años\
-Rol: Oficinista\
-Actividades: Trabajo de oficina, ocasionalmente realiza ejercicio, busca mejorar su alimentación sin depender de un nutricionista.\
-Points of pain: Falta de tiempo para planificar comidas, dificultad para identificar alimentos saludables y equilibrados, poca disponibilidad de herramientas accesibles para su nivel de conocimiento.\
+# Competencias
+## Competencias Genéricas
 
-Nombre: Dra. María López **(Primario)**\
-Edad: 45 años\
-Rol: Nutrióloga\
-Actividades: Diseña dietas para sus pacientes, investiga sobre nutrición, brinda asesoramiento personalizado.\
-Points of pain: Falta de herramientas digitales eficientes para personalizar dietas, dificultad para exportar información en formatos adecuados, necesidad de una interfaz intuitiva para mejorar la experiencia del paciente.\
+El desarrollo del producto **NutriCalc** ha sido una oportunidad activa para fortalecer diversas competencias genéricas clave, que son esenciales para el ejercicio profesional en el ámbito de la ingeniería de software y el trabajo colaborativo.
 
-Nombre: Andrés Gómez **(Secundario)**\
-Edad: 25 años\
-Rol: Atleta de alto rendimiento\
-Actividades: Entrena diariamente, sigue una alimentación controlada, ajusta su dieta según su fase de entrenamiento.\
-Points of pain: Necesidad de cálculos precisos de macronutrientes, dificultad para gestionar múltiples planes alimenticios, falta de una herramienta que le permita visualizar cambios en su alimentación de forma rápida y sencilla.
-# Requerimientos Funcionales
-**RF01**: Registro e inicio de sesión de usuarios.\
-**RF02**: Ingreso de datos personales para el cálculo de necesidades nutricionales.\
-**RF03**: Cálculo automático de macronutrientes.\
-**RF04**: Asignación de equivalentes de grupos alimenticios.\
-**RF05**: Creación, edición y almacenamiento de menús personalizados.\
-**RF06**: Exportación e impresión de menús generados.\
-# Requerimientos No-Funcionales
-**RNF01**: Interfaz responsiva y amigable para usuarios de diferentes niveles de conocimiento.\
-**RNF02**: Seguridad en el almacenamiento de datos de los usuarios.\
-**RNF03**: Rendimiento eficiente en el cálculo y generación de menús.\
-**RNF04**: Escalabilidad para futuras integraciones con bases de datos externas o aplicaciones móviles.\
-**RNF05**: Compatibilidad con distintos navegadores y sistemas operativos.\
-# Casos de Uso
-- Registrar usuario. El cliente podrá registrar sus credenciales en el sistemas para ser usuario
-- Iniciar sesión. El cliente podrá ingresar como usuario al sistema
-- Registrar el total de kilocalorías. Se ingresa el total de kcals
-- Personalizar la distribución. Se ditribuyen las kcals en los macronutrientes
-- Agraegar grupos alimenticios. Se seleccionan los equivalentes de los grupos alimenticios
-- Monitorear el porcentaje agregado con el registrado. Se puede observar la comparación de los equivalentes ingresados con la meta determinada
-- Agregar alimentos específicos. De acuerdo a los equivalentes, se agregan platillos específicos
-- Exportar el menú. Se puede exportar el menú como PDF
-- Guardar menú. Se puede guardar el menú en el sistema
-- Abrir menú. Se pueden abrir los menus guardados previamente
-- Cerrar sesión. Se puede cerrar sesión iniciada.
-  ![image](https://github.com/user-attachments/assets/980de064-4ee6-445b-85b2-f39ff72a7953)
+### Comunicación efectiva
 
+- **Actividad relacionada:** Participación en reuniones de planificación, revisión y retrospectiva del sprint.
+- **Cómo se promueve:** Se requiere que los miembros del equipo expresen con claridad los avances, impedimentos y propuestas de mejora. El uso de bitácoras documentadas y reportes técnicos refuerza la capacidad de comunicar tanto de forma oral como escrita.
 
+### Trabajo en equipo
+
+- **Actividad relacionada:** Desarrollo colaborativo del backlog, ejecución conjunta de tareas y resolución de conflictos.
+- **Cómo se promueve:** La metodología Scrum exige coordinación constante. Se fomenta la empatía, el respeto por las ideas de otros y la responsabilidad compartida.
+
+### Pensamiento crítico y solución de problemas
+
+- **Actividad relacionada:** Definición de requerimientos funcionales y técnicos, diseño de la arquitectura del sistema y revisión de código.
+- **Cómo se promueve:** Cada decisión técnica es justificada y evaluada en términos de su impacto. Se analizan diferentes enfoques antes de implementar una solución.
+
+### Aprendizaje autónomo
+
+- **Actividad relacionada:** Investigación sobre equivalencias nutricionales, estructuras de bases de datos, y mejores prácticas en desarrollo frontend.
+- **Cómo se promueve:** Los integrantes del equipo buscan y aplican nuevo conocimiento de manera autónoma para resolver retos técnicos no previstos inicialmente.
+
+### Gestión del tiempo
+
+- **Actividad relacionada:** Planeación y seguimiento de tareas en Trello/GitHub Projects y cumplimiento de entregas por sprint.
+- **Cómo se promueve:** La necesidad de cumplir objetivos cada dos semanas obliga a desarrollar habilidades de organización personal y cumplimiento de tiempos.
+
+## Competencias Específicas
+
+Durante el desarrollo del proyecto **NutriCalc**, se promueven de forma clara y directa diversas competencias específicas propias de la formación en ingeniería de software y tecnologías de la información.
+
+### Análisis, especificación y validación de requerimientos
+
+- **Actividad relacionada:** Elaboración de historias de usuario, casos de uso, y validación con el Product Owner.
+- **Cómo se promueve:** Se aplican metodologías formales para definir necesidades del usuario y criterios de aceptación medibles, fortaleciendo la capacidad de traducir necesidades reales a soluciones funcionales.
+
+### Modelado y diseño de software
+
+- **Actividad relacionada:** Diseño de la base de datos, diagramas de casos de uso y arquitectura del sistema.
+- **Cómo se promueve:** Se emplean técnicas UML, estructuras de datos relacionales y patrones de diseño, lo que refuerza la competencia en la estructuración lógica de sistemas.
+
+### Desarrollo de aplicaciones web
+
+- **Actividad relacionada:** Programación del frontend con Vue.js y backend con PHP.
+- **Cómo se promueve:** Se practica la construcción de componentes reutilizables, validación de formularios, consumo de APIs, y renderizado dinámico, conforme a estándares de desarrollo web moderno.
+
+### Control de versiones y trabajo colaborativo en entornos de desarrollo
+
+- **Actividad relacionada:** Uso de GitHub para manejo de versiones, ramas, issues y pull requests.
+- **Cómo se promueve:** Se fortalece la competencia en herramientas DevOps, control de cambios, y flujo de trabajo colaborativo mediante git y plataformas CI/CD.
+
+### Documentación técnica y profesional
+
+- **Actividad relacionada:** Redacción de documentos `.md`, manuales técnicos y bitácoras.
+- **Cómo se promueve:** Se fomenta la capacidad de generar documentación clara, estructurada y útil, clave para la mantenibilidad y escalabilidad del sistema.
