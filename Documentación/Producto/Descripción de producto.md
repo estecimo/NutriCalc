@@ -1,8 +1,10 @@
 # Descripción del Producto
-NutriCalc es una aplicación web diseñada para facilitar el cálculo de necesidades nutricionales y la creación de planes alimenticios personalizados, dirigidos tanto a profesionales de la nutrición como a usuarios sin conocimientos especializados. El objetivo central del producto es brindar una solución digital integral que combine el cálculo preciso de macronutrientes con la estructuración de menús balanceados mediante equivalentes de grupos alimenticios.
+**NutriCalc** es una aplicación web diseñada para facilitar el cálculo de necesidades nutricionales y la creación de planes alimenticios personalizados, dirigidos tanto a profesionales de la nutrición como a usuarios sin conocimientos especializados. El objetivo central del producto es brindar una solución digital integral que combine el cálculo preciso de macronutrientes con la estructuración de menús balanceados mediante equivalentes de grupos alimenticios.
 
 El sistema permitirá a los usuarios ingresar a cuentas con autenticación de credenciales, una vez autenticado, podrán ingresar sus datos de su requerimiento calórico diario. Posteriormente, se distribuirán estas calorías en macronutrientes (proteínas, carbohidratos y grasas), permitiendo al usuario seleccionar alimentos equivalentes según las porciones recomendadas. Los menús personalizados se construirán organizando los alimentos en diferentes tiempos de comida: desayuno, colaciones, almuerzo y cena. Finalmente, se ofrecerá la funcionalidad de guardar los menús creados, exportarlos en diversos formatos y realizar seguimiento de progreso.
 
-Algunas limitaciones que presentarán el proyecto:
-- No hay versión local en vista por el momento.
-- El proyecto está en una fase que no se puede presentar fuera del ambiente local de prueba.
+## Alcance del producto
+NutriCalc cubrirá las funcionalidades básicas de cálculo nutricional y gestión de menús personalizados. Incluirá registro e inicio de sesión de usuarios, cálculo de macronutrientes, asignación de equivalentes alimenticios, generación y exportación de menús, y visualización de comparaciones con objetivos nutricionales. La interfaz será accesible desde dispositivos móviles y computadoras de escritorio, garantizando una experiencia intuitiva y adaptable.
+
+## Limitaciones del producto
+La aplicación no incluirá inicialmente un sistema automatizado de recomendaciones con inteligencia artificial ni integración con dispositivos de monitoreo físico como relojes inteligentes o balanzas conectadas. Además, no se incluirán por el momento funciones avanzadas de seguimiento médico-clínico o conectividad directa con historiales clínicos. Las recomendaciones alimenticias estarán basadas en estándares generales y no sustituirán el asesoramiento de un profesional de la salud.
