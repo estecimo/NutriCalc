@@ -8,61 +8,77 @@ Características:
 - Interfaz intuitiva y amigable para el usuario.
 - Generación de reportes o exportación de dietas en formatos comunes (PDF, CSV).
 - Compatibilidad con dispositivos móviles y escritorio. para acceder a ellos en cualquier momento y desde cualquier dispositivo.
-# Competencias
-## Competencias Genéricas
 
-El desarrollo del producto **NutriCalc** ha sido una oportunidad activa para fortalecer diversas competencias genéricas clave, que son esenciales para el ejercicio profesional en el ámbito de la ingeniería de software y el trabajo colaborativo.
+# Competencias del Proyecto – NutriCalc
 
-### Comunicación efectiva
+## 🎯 Competencias Transversales o Genéricas
 
-- **Actividad relacionada:** Participación en reuniones de planificación, revisión y retrospectiva del sprint.
-- **Cómo se promueve:** Se requiere que los miembros del equipo expresen con claridad los avances, impedimentos y propuestas de mejora. El uso de bitácoras documentadas y reportes técnicos refuerza la capacidad de comunicar tanto de forma oral como escrita.
+### Comunicación oral y escrita
+Transmite conocimientos, expresa ideas y argumentos de manera clara, rigurosa y convincente, tanto de forma oral como escrita, utilizando los recursos gráficos y los medios necesarios adecuadamente, adaptándose a las características de la situación y de la audiencia.
 
-### Trabajo en equipo
+### Análisis y síntesis de información
+Reconoce y describe los elementos constitutivos de una realidad, procede a organizar la información significativa según criterios preestablecidos adecuados a un propósito.
 
-- **Actividad relacionada:** Desarrollo colaborativo del backlog, ejecución conjunta de tareas y resolución de conflictos.
-- **Cómo se promueve:** La metodología Scrum exige coordinación constante. Se fomenta la empatía, el respeto por las ideas de otros y la responsabilidad compartida.
+### Planteamiento y resolución de problemas
+Analiza los elementos constitutivos de un problema para idear estrategias que permitan obtener, de forma razonada, una solución contrastada y acorde a ciertos criterios preestablecidos.
 
-### Pensamiento crítico y solución de problemas
-
-- **Actividad relacionada:** Definición de requerimientos funcionales y técnicos, diseño de la arquitectura del sistema y revisión de código.
-- **Cómo se promueve:** Cada decisión técnica es justificada y evaluada en términos de su impacto. Se analizan diferentes enfoques antes de implementar una solución.
+### Modelación de soluciones
+Analiza los fundamentos y propiedades de modelos existentes. Traduce e interpreta los elementos del modelo en términos del mundo real.
 
 ### Aprendizaje autónomo
+Aprende por iniciativa e interés propio a lo largo de la vida.
 
-- **Actividad relacionada:** Investigación sobre equivalencias nutricionales, estructuras de bases de datos, y mejores prácticas en desarrollo frontend.
-- **Cómo se promueve:** Los integrantes del equipo buscan y aplican nuevo conocimiento de manera autónoma para resolver retos técnicos no previstos inicialmente.
+### Trabajo en equipo
+Participa de manera efectiva en equipos diversos y colabora de forma activa en la consecución de objetivos comunes.
 
-### Gestión del tiempo
+### Toma de decisiones
+Identifica patrones que anticipan posibles explicaciones y/o soluciones a los problemas industriales, tecnológicos y operativos para una adecuada toma de decisiones.
 
-- **Actividad relacionada:** Planeación y seguimiento de tareas en Trello/GitHub Projects y cumplimiento de entregas por sprint.
-- **Cómo se promueve:** La necesidad de cumplir objetivos cada dos semanas obliga a desarrollar habilidades de organización personal y cumplimiento de tiempos.
+### Uso efectivo de herramientas TIC (incluyendo nuevas tecnologías)
+Capacidad de actualización respecto al uso de la tecnología en el área que repercuta en su mejora continua.
 
-## Competencias Específicas
+### Responsabilidad en la actuación
+Entendimiento de los aspectos profesionales, éticos, legales, de seguridad y sociales, así como de la responsabilidad inherente en cada uno de ellos.
 
-Durante el desarrollo del proyecto **NutriCalc**, se promueven de forma clara y directa diversas competencias específicas propias de la formación en ingeniería de software y tecnologías de la información.
+### Visión sobre el impacto de las soluciones
+Habilidad para analizar el impacto local y global de las soluciones de TI en las personas, organizaciones y en la sociedad en general.
 
-### Análisis, especificación y validación de requerimientos
+---
 
-- **Actividad relacionada:** Elaboración de historias de usuario, casos de uso, y validación con el Product Owner.
-- **Cómo se promueve:** Se aplican metodologías formales para definir necesidades del usuario y criterios de aceptación medibles, fortaleciendo la capacidad de traducir necesidades reales a soluciones funcionales.
+## 🛠️ Competencias Específicas de Desarrollo de Software
 
-### Modelado y diseño de software
+### Realiza ingeniería de requisitos de software
+Reconoce el contexto, necesidades e involucrados en un sistema empleando técnicas para identificar, obtener, analizar, priorizar, documentar, verificar y validar los requisitos en el contexto de los ciclos de vida y procesos del desarrollo de software.
 
-- **Actividad relacionada:** Diseño de la base de datos, diagramas de casos de uso y arquitectura del sistema.
-- **Cómo se promueve:** Se emplean técnicas UML, estructuras de datos relacionales y patrones de diseño, lo que refuerza la competencia en la estructuración lógica de sistemas.
+### Diseña software
+Diseña el comportamiento, arquitectura e interfaz de soluciones de software a partir de requerimientos y utilizando estrategias, métodos, técnicas y lenguajes de modelado propios del diseño de software.
 
-### Desarrollo de aplicaciones web
+### Construye software
+Desarrolla software para diferentes tipos de aplicaciones, utilizando metodologías y paradigmas de programación en el contexto de los ciclos de vida y procesos del desarrollo de software, con los atributos de calidad requeridos.
 
-- **Actividad relacionada:** Programación del frontend con Vue.js y backend con PHP.
-- **Cómo se promueve:** Se practica la construcción de componentes reutilizables, validación de formularios, consumo de APIs, y renderizado dinámico, conforme a estándares de desarrollo web moderno.
+### Realiza pruebas de software
+Planea, asigna y ejecuta tipos, técnicas, procesos y controles dentro de escenarios de pruebas conforme a los atributos de calidad requeridos.
 
-### Control de versiones y trabajo colaborativo en entornos de desarrollo
+### Realiza mantenimiento de software
+Aplica tipos, procesos y técnicas de mantenimiento conforme a los atributos de calidad requeridos.
 
-- **Actividad relacionada:** Uso de GitHub para manejo de versiones, ramas, issues y pull requests.
-- **Cómo se promueve:** Se fortalece la competencia en herramientas DevOps, control de cambios, y flujo de trabajo colaborativo mediante git y plataformas CI/CD.
+### Administra proyectos de software
+Usa métodos, estrategias, procesos, herramientas y técnicas para la gestión de proyectos de software.
 
-### Documentación técnica y profesional
+### Estima parámetros del proyecto de software
+Aplica métricas para la estimación del software (tamaño, costo, esfuerzo, personal, tiempo, productividad, calidad y documentación) conforme a los modelos de ciclos de vida de los sistemas.
 
-- **Actividad relacionada:** Redacción de documentos `.md`, manuales técnicos y bitácoras.
-- **Cómo se promueve:** Se fomenta la capacidad de generar documentación clara, estructurada y útil, clave para la mantenibilidad y escalabilidad del sistema.
+### Asegura la calidad del software
+Utiliza técnicas, herramientas y estrategias para planificar, asegurar y controlar la calidad de un producto de software.
+
+### Establece mecanismos de seguridad
+Crea o propone métodos y estrategias para evaluar la seguridad y la selección de los criterios que eviten vulnerabilidades en seguridad del software.
+
+### Emplea ciclos de vida
+Emplea los elementos y criterios en el uso de los modelos de ciclos de vida conforme al contexto de procesos del desarrollo de software.
+
+### Verifica calidad de soluciones de software
+Emplea diversos modelos de pruebas para garantizar la calidad del producto de software.
+
+### Usa herramientas para creación de software
+Utiliza métodos industriales y herramientas CASE para las diferentes fases en el proceso de software.
