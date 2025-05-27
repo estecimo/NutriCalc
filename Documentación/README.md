@@ -82,3 +82,44 @@ Emplea diversos modelos de pruebas para garantizar la calidad del producto de so
 
 ### Usa herramientas para creación de software
 Utiliza métodos industriales y herramientas CASE para las diferentes fases en el proceso de software.
+
+# 🛠️ Crítica Constructiva al Curso
+
+## 💬 Opinión General
+
+El curso fue bastante completo y útil. Se abordaron temas que forman parte del núcleo de la carrera, como los **ciclos de vida del software** (cascada, incremental, espiral, etc.), así como metodologías ágiles como **XP** y **SCRUM**. También se habló de pruebas de utilidad, lo cual ayudó a ver cómo asegurar que un sistema realmente funcione para quien lo necesita.
+
+En general, el curso ayudó a tener un panorama mucho más claro sobre cómo se planifica y desarrolla un proyecto de software desde cero, y cómo las metodologías pueden adaptarse según el contexto.
+
+---
+
+## 🔍 Cosas que podrían mejorar (y cómo)
+
+Aunque el curso fue muy bueno, hay algunos aspectos que en mi opinión se pueden ajustar o mejorar para hacerlo aún más provechoso. Aquí van algunas sugerencias:
+
+### 1. Conectar más la teoría con el proyecto
+
+- **Lo que vimos**: Se explicaron bien los ciclos de vida, pero a veces no quedó tan claro cómo aplicarlos directamente al proyecto que estábamos desarrollando.
+- **Sugerencia**: Estaría padre hacer mini ejercicios o proyectos pequeños que usen directamente cada modelo (por ejemplo, una actividad usando espiral y otra con incremental). Así sería más fácil ver sus diferencias en acción.
+
+### 2. Aprovechar mejor los roles en SCRUM
+
+- **Lo que pasó**: Aunque se asignaron roles como Scrum Master o Product Owner, a veces no quedó muy clara la diferencia entre ellos o qué debía hacer cada uno.
+- **Sugerencia**: Estaría bien dar tareas más claras a cada rol para cada entrega o sprint, por ejemplo, que el Scrum Master organice retrospectivas, o que el Product Owner priorice historias. Esto ayudaría a que todos entendamos mejor cómo funciona SCRUM en la vida real.
+
+---
+
+## 💡 Actividades extra que podrían ayudar
+
+| Actividad alternativa | ¿Qué ayuda a mejorar? | ¿Con qué se puede hacer? |
+|------------------------|------------------------|---------------------------|
+| Mini-proyectos según el ciclo de vida (uno con cascada, otro con incremental, etc.) | Analizar, modelar y aplicar soluciones reales | Markdown, Trello |
+| Pruebas cruzadas entre equipos | Calidad del software y colaboración | Vitest, Jest, Postman |
+
+---
+
+## ✅ Conclusión
+
+En resumen, el curso **cumple su objetivo**: nos da una base sólida sobre cómo se desarrolla el software desde una perspectiva profesional. Aprendimos tanto los enfoques tradicionales como los ágiles, y tuvimos oportunidad de aplicar esos conocimientos en un proyecto real.
+
+Con algunos ajustes para conectar mejor teoría con práctica y recibir retroalimentación más constante, el curso podría ser aún más completo y acercarnos más a lo que se vive en el campo profesional del desarrollo de software.
