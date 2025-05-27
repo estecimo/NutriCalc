@@ -28,11 +28,6 @@ Este documento presenta un resumen de los cambios significativos realizados al p
 **Enfoque:** Desarrollo funcional y organización del equipo.
 
 ### Cambios clave:
-- Implementación del cálculo automático de macronutrientes (RF03).
-- Visualización interactiva de macronutrientes (RF04).
-- Selección de equivalentes por grupo alimenticio (RF05).
-- Sistema para crear, editar y guardar menús personalizados (RF06 y RF07).
-- Avances en historial de planes (RF08).
 - Branch estructurado para segunda entrega y mejora del repositorio (documentación `.md`, estructura de carpetas).
 - Incorporación de la métrica de contribución individual.
 - Mejora en la gestión de tareas y seguimiento de reuniones.
@@ -50,8 +45,7 @@ Este documento presenta un resumen de los cambios significativos realizados al p
 **Enfoque:** Validación, refinamiento y pruebas con usuarios.
 
 ### Cambios clave:
-- Branch `Primera-Entrega` 
-- Implementación de exportación de menús en PDF y CSV (RF09).
+- Branch `Tercera-Entrega` 
 - Pruebas informales con usuarios y cuestionarios de satisfacción.
 - Medición del tiempo de respuesta para validar RNF01.
 - Mejora del diseño responsive para cumplir con RNF05.
